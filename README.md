@@ -1,1 +1,1 @@
-# Coin Toss
+# Push Notification
